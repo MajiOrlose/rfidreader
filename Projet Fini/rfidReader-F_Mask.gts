@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
-%TF.CreationDate,2025-12-11T11:24:11+01:00*%
+%TF.CreationDate,2025-12-11T14:08:25+01:00*%
 %TF.ProjectId,rfidReader,72666964-5265-4616-9465-722e6b696361,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.0) date 2025-12-11 11:24:11*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-12-11 14:08:25*
 %MOMM*%
 %LPD*%
 G01*
@@ -151,20 +151,20 @@ X222640000Y-92400000D03*
 X225180000Y-92400000D03*
 %TD*%
 D22*
-%TO.C,Validation1*%
+%TO.C,OK*%
 X217625000Y-135700000D03*
 D23*
 X220165000Y-135700000D03*
 %TD*%
 D24*
-%TO.C,TP4*%
+%TO.C,GND*%
 X202150000Y-157350000D03*
 %TD*%
-%TO.C,TP2*%
+%TO.C,RX*%
 X202150000Y-143350000D03*
 %TD*%
 D22*
-%TO.C,Marche2*%
+%TO.C,Marche*%
 X210525000Y-135700000D03*
 D23*
 X213065000Y-135700000D03*
@@ -195,7 +195,7 @@ X227330000Y-107188000D03*
 X227330000Y-104648000D03*
 %TD*%
 D24*
-%TO.C,TP1*%
+%TO.C,3.3V*%
 X202150000Y-150350000D03*
 %TD*%
 D27*
